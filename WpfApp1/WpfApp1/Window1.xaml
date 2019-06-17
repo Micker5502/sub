@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window1" Height="396" Width="513" WindowStyle="ToolWindow">
+    <Grid>
+        <Label Content="頻道網址：" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="channel_TB" HorizontalAlignment="Left" Height="23" Margin="99,17,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="258" MaxLines="1"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="207,274,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <CheckBox x:Name="start_up" Content="開機啓動" HorizontalAlignment="Left" Margin="99,234,0,0" VerticalAlignment="Top" FontSize="18" Checked="CheckBox_Checked" Unchecked="start_up_Unchecked"/>
+        <Label Content="背景:" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Logo:" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="back_TB" HorizontalAlignment="Left" Height="23" Margin="99,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="258" MouseDoubleClick="back_TB_MouseDoubleClick" MaxLines="1"/>
+        <TextBox x:Name="logo_TB" HorizontalAlignment="Left" Height="23" Margin="99,83,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="258" MouseDoubleClick="logo_TB_MouseDoubleClick" MaxLines="1"/>
+        <Button Content="..." HorizontalAlignment="Left" Margin="372,56,0,0" VerticalAlignment="Top" Width="34" Click="Button_Click_1"/>
+        <Button Content="..." HorizontalAlignment="Left" Margin="372,87,0,0" VerticalAlignment="Top" Width="34" Click="Button_Click_2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,100 @@
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberItem.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberItem.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\Number.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\Number.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.g.cs
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.baml
+C:\Users\zotto\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\Number.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\Number.baml
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.baml
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.baml
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Software\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Software\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Software\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\Number.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\Number.baml
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.baml
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.baml
+D:\Software\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Software\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+D:\Software\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\h707\Downloads\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\Number.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\Number.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberGroup_.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Config\NumberPanel_.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
